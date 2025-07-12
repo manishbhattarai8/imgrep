@@ -1,0 +1,5 @@
+.venv
+data/test2014/
+data/train2014/
+captions_train2014.json
+checkpoints/
